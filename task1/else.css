@@ -1,0 +1,54 @@
+.text1{
+    background-color: #212529;
+    color: white;
+    text-align: left;
+    justify-content: center;
+    padding-left: 100px;
+    float: top;   
+}
+.text2{
+    background-color: #212529;
+    color: white;
+    text-align:center;
+    margin-bottom: 100px;
+    justify-content:center;
+     
+    
+}
+.text3{
+    color:white;
+    text-align: justify;
+    text-align: center;
+    vertical-align:bottom;
+    
+}
+.text4{
+    color:white;
+    text-align: justify;
+    text-align: center;
+    vertical-align:bottom;
+    
+    
+}
+.buttonAlign{
+    text-align: center;
+}
+.text5{
+    color:black;
+    text-align: justify;
+    text-align: center;
+    vertical-align:bottom;
+    
+}
+.text6{
+    color:black;
+    text-align: justify;
+    text-align: center;
+    vertical-align:top;
+}
+.text7{
+    color:white;
+    text-align: justify;
+    text-align: center;
+    
+}
